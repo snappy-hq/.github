@@ -5,10 +5,6 @@ The main objective of creating such app is to have both the benefits of the note
 
 We want to give the app the look of an actual hand written note base like the ***Excallidraw*** provides out of the box on their #ui, shown below:
 
-![[Pasted image 20240628113628.png]]
-
-![[Pasted image 20240630003851.png]]
-
 ---
 ## Why do we need to create this type of project ?
 
